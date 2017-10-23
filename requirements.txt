@@ -1,2 +1,10 @@
+boto==2.48.0
+bz2file==0.98
+certifi==2017.7.27.1
+chardet==3.0.4
+idna==2.6
 pkg-resources==0.0.0
+requests==2.18.4
+smart-open==1.5.3
 twitter==1.18.0
+urllib3==1.22
